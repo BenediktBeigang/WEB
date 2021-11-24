@@ -1,0 +1,91 @@
+aside {
+    width: 35%;
+    height: 100%;
+    background-color: #46556c;
+    display: flex;
+    flex-direction: column;   
+    justify-content: flex-start;     
+    align-items: center;
+    font-size: 1rem;
+}
+
+aside p, aside h1, aside td, aside li{
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    line-height: 150%;
+}
+
+#title1{
+    font-size: 250%;
+    text-align: center;
+    top: 1.5em;  
+}
+
+aside > div {
+    width: 100%;
+}
+
+#title1 {
+    height: 10%;
+    justify-content: center;
+}
+
+#imgBox {
+    height: 17%;
+    background-color: #fcd868;
+}
+
+#imgBox > img {
+    float: right;
+}
+
+#info {
+    width: 80%;
+    font-size: 200%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#info p {
+    text-align: left;
+}
+
+#title2 {
+    font-size: 300%;
+    text-align: center; 
+}
+#table1 {
+    width: 80%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+#table1 > div {
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    line-height: 130%;
+    font-size: 200%;
+}
+
+#title3{
+    font-size: 300%;
+    line-height: 100%;
+}
+
+#list1 {
+    width: 80%;
+    font-size: 200%;
+}
+
+#title4 {
+    height: 3%;
+    text-align: center; 
+}
+#title4 > h1 {
+    font-size: 300%;
+}
+
+#list2 {
+    width: 80%;
+    font-size: 1.5em;
+}

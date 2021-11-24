@@ -1,0 +1,25 @@
+body {
+    margin-top: 0;
+    margin-left: 0;
+}
+
+.before::before, .after::after {
+    content: "\A";
+    white-space: pre;
+}
+
+a {
+    color: inherit;
+}
+
+p, h1 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#page {
+    width: 1519px;
+    height: 2079px;
+    background-color: #ccc;
+    display: flex;
+    flex-direction: row;
+}

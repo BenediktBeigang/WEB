@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 1000">
+
+    <line x1="70" x2="70" y1="60" y2="190" style="stroke:rgb(0,0,0);stroke:6"/>
+    <line x1="70" x2="70" y1="210" y2="410" style="stroke:rgb(0,0,0);stroke:6"/>
+    <line x1="70" x2="70" y1="410" y2="565" style="stroke:rgb(0,0,0);stroke:6"/>
+    <line x1="70" x2="70" y1="588" y2="730" style="stroke:rgb(0,0,0);stroke:6"/>
+    <line x1="70" x2="70" y1="750" y2="875" style="stroke:rgb(0,0,0);stroke:6"/>
+
+    <circle cx="70" cy="43" r="15" stroke="#fcd868" stroke-width="3" fill="#fcd868"/>
+    <circle cx="70" cy="198" r="10" stroke="#fcd868" stroke-width="3" fill="none"/>
+    <circle cx="70" cy="405" r="15" stroke="#fcd868" stroke-width="3" fill="#fcd868"/>
+    <circle cx="70" cy="575" r="10" stroke="#fcd868" stroke-width="3" fill="none"/>
+    <circle cx="70" cy="740" r="10" stroke="#fcd868" stroke-width="3" fill="none"/>
+    <circle cx="70" cy="885" r="10" stroke="#fcd868" stroke-width="3" fill="none"/>
+
+</svg>

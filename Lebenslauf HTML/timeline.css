@@ -1,0 +1,69 @@
+.shadow {
+    -webkit-filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
+    filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
+}
+
+#timeline {
+    width: 65%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+}
+
+#timeline h1 {
+    font-size: 5em;
+    line-height: 70%;
+}
+
+#line {
+    width: 19%;
+    height: 100%;
+    background-color: white;
+}
+
+#content {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+#steps {
+    width: 80%;
+    height: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#steps h1 {
+    color: black;
+    font-size: 5em;
+    line-height: 100%;
+}
+
+#steps div {
+    /*position: relative;*/
+    width: 80%;
+    left: 13%;
+}
+
+.big {
+    color: black;
+    font-size: 0.7rem;
+}
+
+.big p {
+    font-size: 2rem;
+}
+
+.tiny {
+    font-size: 0.5rem;
+}
+
+.tiny p {
+    font-size: 2rem;
+}
